@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.serverintl.net/assets/sitemap/">
+    <url>
+        <loc>http://www.serverintl.net /</loc>
+        <lastmod>2017-08-01</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.serverintl.net/schedule/</loc>
+        <lastmod>2017-08-01</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.serverintl.net/about/</loc>
+        <lastmod>2017-08-01</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.serverintl.net/downloads/</loc>
+        <lastmod>2017-08-01</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.serverintl.net/contact/</loc>
+        <lastmod>2017-08-01</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+</urlset>
